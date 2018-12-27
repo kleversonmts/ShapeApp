@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SHAPE</string>
+
+    <string name="wait">Em breve novidades!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SHAPE</string>
+    <string name="nav_header_subtitle">O app da sua vida FIT</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+    <string name="importar">Importar</string>
+    <string name="gallery">Galeria</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Ferramentas</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Compartilhar</string>
+    <string name="send">Enviar</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="textview01">Olá, seja bem vindo de volta</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Fazer login</string>
+    <string name="rem_pass">Lembrar senha?</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="cads">Cadastrar</string>
+</resources>
