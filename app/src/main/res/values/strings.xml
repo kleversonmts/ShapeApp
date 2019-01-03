@@ -15,12 +15,12 @@
     <string name="communicate">Communicate</string>
     <string name="share">Compartilhar</string>
     <string name="send">Enviar</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_login">Login</string>
     <!-- Strings related to login -->
     <string name="textview01">Olá, seja bem vindo de volta</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Senha</string>
-    <string name="action_sign_in">Fazer login</string>
+    <string name="action_login_in">Fazer login</string>
     <string name="rem_pass">Lembrar senha?</string>
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_invalid_password">This password is too short</string>
@@ -30,5 +30,5 @@
         completions."
     </string>
     <string name="cads">Cadastrar</string>
-    <string name="todo">TODO</string>
+    <string name="logo">Logo</string>
 </resources>
