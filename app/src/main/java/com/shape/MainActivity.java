@@ -17,7 +17,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    //private FirebaseAuth mAuth;
+    private FirebaseAuth mAuth;
 
 
     @Override
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
         // Initialize Firebase Auth
-       // mAuth = FirebaseAuth.getInstance();
+        mAuth = FirebaseAuth.getInstance();
     }
 
     @Override
